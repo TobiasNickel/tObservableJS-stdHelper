@@ -7,4 +7,6 @@ Using the std-HTML-Views, there are often needed some little methods, that alway
 
 
 ###Developer
-Tobias Nickel  ![alt text](https://avatars1.githubusercontent.com/u/4189801?s=150) 
+Tobias Nickel  
+![alt text](https://avatars1.githubusercontent.com/u/4189801?s=150) 
+
